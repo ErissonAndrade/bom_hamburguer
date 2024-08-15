@@ -1,3 +1,3 @@
-# bom_hamburguer
+# Bom Hamburguer
 
 Bom Hamburguer order app.
